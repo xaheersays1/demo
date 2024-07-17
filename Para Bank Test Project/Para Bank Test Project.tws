@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\Para Bank Test Project.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\Para Bank Test Project\Repository\Para Bank Test Project.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a13cca2-d0c5-1003-2255-ab1d6de14ad3</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>0ed4ad38-4e03-4c0f-ac15-7688bac755f3</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>
